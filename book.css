@@ -1,0 +1,105 @@
+
+.back {
+    background-color: #1b1b1b;
+    height: 800px;
+
+}
+
+.back-text {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    padding: 15px;
+}
+
+.first-pic {
+    height: 190px;
+    margin-left: 20px;
+}
+
+.background {
+    background-color: #e6f6ff;
+    height: 190px;
+    width: 250px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 15px;
+}
+
+.wings {
+    color: #183b56;
+    font-size: 20px;
+    font-family: "Bree Serif";
+}
+
+.Auto {
+    color: #183b56;
+    font-size: 15px;
+    font-family: "Bree Serif";
+    font-weight: bold;
+}
+
+.Arun {
+    color: #183b56;
+    font-size: 13px;
+    font-family: "Bree Serif";
+}
+
+.recommended {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding: 15px;
+}
+
+.chetan {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Bree Serif";
+}
+
+.indian {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Bree Serif";
+    margin-top: 25px;
+}
+
+.bhagat-background {
+    margin-left: 10px;
+}
+
+.but {
+    margin-top: 20px;
+}
+
+.harry {
+    margin-top: 20px;
+}
+
+.first-pics {
+    height: 250px;
+    width: 180px;
+    margin-top: 25px;
+}
+
+.Autoo {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.secound {
+    text-align: center;
+}
+
+.Alto {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Bree Serif";
+    margin-left: 25px;
+}
+
+.butt {
+    margin-left: 5px;
+}
